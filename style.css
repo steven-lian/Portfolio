@@ -1,0 +1,64 @@
+.profileCard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border: 10px solid  #98d8ab;
+    border-radius: 25px;
+  }
+  .navbar{
+text-align: center;
+  }
+
+  h2{
+      background-color: rgba(85, 127, 141,0.3);
+      margin: 10px;
+      border-radius: 15px;
+      padding: 20px;
+  }
+  section{
+    margin: 50px;
+}
+  .title {
+    color: red;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  #mydetails{
+    display:none
+  }
+  
+  h1{
+    color:black;
+    font-family: "Lucida Console", Courier, monospace;
+  }
+  .selfie{
+    border-radius: 50%;
+  }
+  body{
+    background-image:url("https://cdn.pixabay.com/photo/2017/08/02/14/26/winter-landscape-2571788_960_720.jpg");
+    height: 100%;
+  }
